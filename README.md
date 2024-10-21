@@ -1,7 +1,4 @@
-Customer Churn Prediction
-This project focuses on predicting customer churn using a dataset from [your data source, e.g., Kwaduara Ltd].
 
-Overview
 Customer churn refers to the loss of customers or clients over time. By predicting churn, businesses can take proactive steps to retain customers and reduce revenue loss.
 
 In this project, we:
